@@ -1,2 +1,2 @@
-# jogo_da_velha
- Projeto de Jogo da Velha
+# tic_tac_toe_project
+ Vou criar um Jogo da Velha
